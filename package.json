@@ -1,0 +1,25 @@
+{
+  "name": "vaaPo",
+  "version": "1.0.0",
+  "description": "Contact Information about Paavo Muranen",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "main": "index.js",
+  "bin": {
+    "elijahmanor": "./index.js"
+  },
+  "scripts": {
+    "postinstall": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaaPo/vaaPo"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Paavo Muranen",
+  "license": "MIT"
+}
