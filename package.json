@@ -1,6 +1,6 @@
 {
   "name": "vaapo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Contact Information about Paavo Muranen",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
