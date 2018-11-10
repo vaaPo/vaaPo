@@ -29,9 +29,7 @@ cfonts.say("Paavo Muranen", {
   colors: ["blue", "white", "blue"]
 });
 
-console.log(`Hello, this is Paavo Muranen
-geeky signature!
-`);
+//console.log(`Hello, this is Paavo Muranen geeky signature!`);
 
 inquirer
   .prompt([
