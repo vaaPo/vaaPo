@@ -1,6 +1,6 @@
 {
   "name": "vaapo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Contact Information about Paavo Muranen",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -9,8 +9,7 @@
   "bin": {
     "vaapo": "./index.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/vaaPo/vaaPo"
