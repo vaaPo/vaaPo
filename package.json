@@ -1,5 +1,5 @@
 {
-  "name": "vaaPo",
+  "name": "vaapo",
   "version": "1.0.0",
   "description": "Contact Information about Paavo Muranen",
   "publishConfig": {
@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "bin": {
-    "elijahmanor": "./index.js"
+    "vaapo": "./index.js"
   },
   "scripts": {
     "postinstall": "node ./index.js"
