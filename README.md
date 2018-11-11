@@ -8,9 +8,7 @@ Or be brave and execute directly from github with:
 If you would like to fiddle with the source, then just clone it for yourself with:
 <br>git clone git@github.com:vaaPo/vaaPo.git
 <br>cd vaapo
-<br>npm i inquirer
-<br>npm i cfonts
-<br>npm i opn
+<br>npm install
 <br>npm run start -s
 
 This of course requires you to have ssh-keys in place in Git, but I recommend using ssh because with VisualStudio code you don't have to enter credentials everytime you e.g.push our changes to your own repository.
