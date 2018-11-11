@@ -14,5 +14,7 @@ npm i inquirer
 npm i cfonts
 npm i opn
 node ./index.js
+-or
+npm run start -s
 
 This of course requires you to have ssh-keys in place in Git, but I recommend using ssh because with VisualStudio code you don't have to enter credentials everytime you e.g.push our changes to your own repository.
